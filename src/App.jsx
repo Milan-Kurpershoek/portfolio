@@ -16,17 +16,17 @@ const router = createHashRouter([
             },
 
             {
-                path: "/AboutMe",
+                path: "/Bio",
                 element: <AboutMe/>,
             },
 
             {
-                path: "/SkillsAndTools",
+                path: "/Skills",
                 element: <SkillsAndTools/>,
             },
 
             {
-                path: "/Projects",
+                path: "/Projecten",
                 element: <Projects/>,
             },
         ],
